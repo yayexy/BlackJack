@@ -17,7 +17,7 @@ Ce projet est un simulateur de jeu de Blackjack en Python, permettant à un util
    cd nom-du-repository
    
 ## Utilisation
-1 - Démarrage du jeu : Lorsque le jeu commence, vous êtes invité à entrer le montant de départ. <b>
-2 - Mise : Vous devez entrer le montant de mise pour chaque partie.<b>
-3 - Actions : Pendant votre tour, vous pouvez choisir de tirer une carte (t), de rester (r), ou de doubler (d).<b>
-4 - Fin de la partie : Le jeu se termine lorsque vous choisissez de ne plus jouer ou si votre montant de mise est épuisé.<b>
+1 - Démarrage du jeu : Lorsque le jeu commence, vous êtes invité à entrer le montant de départ. <br>
+2 - Mise : Vous devez entrer le montant de mise pour chaque partie.<br>
+3 - Actions : Pendant votre tour, vous pouvez choisir de tirer une carte (t), de rester (r), ou de doubler (d).<br>
+4 - Fin de la partie : Le jeu se termine lorsque vous choisissez de ne plus jouer ou si votre montant de mise est épuisé.<br>
